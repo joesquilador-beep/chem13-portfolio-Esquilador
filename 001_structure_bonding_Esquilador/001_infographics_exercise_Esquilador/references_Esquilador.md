@@ -1,8 +1,8 @@
-\# References
+# References
 
 
 
-\## TNT (2,4,6-Trinitrotoluene)
+## TNT (2,4,6-Trinitrotoluene)
 
 
 
@@ -24,7 +24,7 @@ U.S. Environmental Protection Agency. (2017). \*Technical fact sheet: 2,4,6-trin
 
 
 
-\## Cubane
+## Cubane
 
 
 
@@ -50,7 +50,7 @@ Reekie, T. A., Williams, C. M., Rendina, L. M., \& Kassiou, M. (2019). Cubanes i
 
 
 
-\## Azobenzene
+## Azobenzene
 
 
 
