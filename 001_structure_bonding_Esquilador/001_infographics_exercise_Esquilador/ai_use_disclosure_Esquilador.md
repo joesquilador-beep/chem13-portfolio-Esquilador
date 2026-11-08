@@ -1,4 +1,4 @@
-AI Use Disclosure
+## AI Use Disclosure
 
 AI tools were used as learning and communication support during the preparation of this CHEM 13 activity. AI assistance was used to help research and organize information, explain chemistry concepts, identify and evaluate potential scientific sources, format references, and improve the presentation of information.
 
